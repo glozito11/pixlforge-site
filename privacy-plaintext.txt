@@ -1,0 +1,90 @@
+Privacy Policy
+
+Effective 31 August 2026
+
+The short version. We do not sell, rent or share your personal
+information. This site sets no cookies and runs no trackers. Our Pinterest
+application connects only to our own Pinterest account — it never reads
+any other person’s Pins, boards or profile.
+
+Who we are
+
+PIXLFORGE Creative Studio is an independent digital products studio.
+We design and sell downloadable digital products — printable planners, wall art,
+templates, prompt packs and eBooks — through our Etsy shop, and we promote them
+on Pinterest.
+
+1. This website
+
+These are static informational pages. We set no cookies, run no analytics, embed no
+third-party trackers, and there are no accounts to create. We collect no personal
+information from visitors here.
+
+The site is hosted on GitHub Pages. As part of serving any website, GitHub may log
+standard technical request data such as IP address and browser type. That processing is
+governed by GitHub’s own privacy statement, not by us.
+
+2. Our Pinterest application
+
+We operate a private application that connects to our own Pinterest business account
+for a single purpose: publishing and organising our own marketing content. It is used by
+PIXLFORGE Creative Studio alone and is not offered to, or usable by, anyone else.
+
+What it does
+
+• Creates and schedules Pins on boards we own
+
+• Creates and organises those boards
+
+• Reads performance data (saves, clicks, impressions) for our own Pins and boards
+
+What it does not do
+
+• Access, read or store any other Pinterest user’s Pins, boards, profile or personal data
+
+• Serve any user other than PIXLFORGE Creative Studio itself
+
+• Run advertising campaigns
+
+• Share Pinterest data with any third party
+
+Access tokens for our own account are stored locally on our own hardware and are not
+transmitted to anyone.
+
+3. If you buy from our Etsy shop
+
+Purchases are made and paid for on Etsy. Etsy, not us, processes your payment
+and holds your payment details — we never see your card information.
+
+Etsy provides us with the limited order information we need to fulfil and support your
+purchase, which may include your name, your billing or delivery country, and your Etsy
+username or contact email.
+
+We use that information only to deliver your download, answer your questions and handle
+refunds or disputes. We keep it only as long as we need it for customer support, business
+records and tax obligations. We do not add you to marketing lists, and we do not
+sell or share your information.
+
+Etsy’s own handling of your data is governed by Etsy’s privacy policy.
+
+4. Your rights
+
+Depending on where you live, you may have the right to request a copy of the personal
+information we hold about you, ask us to correct or delete it, or object to how we use it.
+Contact us and we will respond. For information Etsy holds about your purchase, you can
+also make requests directly to Etsy.
+
+5. Children
+
+Our products and shop are intended for adults. We do not knowingly collect personal
+information from children.
+
+6. Contact
+
+Questions about this policy, or about information we hold, can be sent to
+pixlforgellc@gmail.com.
+
+7. Changes to this policy
+
+If we change this policy we will post the revised version on this page and update the
+effective date above.
